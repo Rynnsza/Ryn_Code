@@ -81,7 +81,7 @@ Landing page menampilkan value proposition, portofolio implementasi, partner, da
 1. **Clone repository**
 
    ```bash
-   git clone &lt;url-repo-ini&gt;
+   git clone https://github.com/Rynnsza/Ryn_Code.git
    cd Ryn_Code
    ```
 
